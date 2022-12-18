@@ -1,0 +1,71 @@
+body {
+background-color: rgba(5, 46, 29, 0.877);
+font: normal 20pt arial;}
+
+header {
+    color: white;
+    text-align: center;
+    font: normal 30pt Times;
+    margin-top: 30px;}
+
+section {
+    background-color: white;
+    font: normal 13pt Times;
+    width: 430px;
+    height: 350px;;
+    border-radius: 15px;
+    margin: 0 auto;}
+
+div#div1 {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    top: 20px;
+    padding: 20px;}
+
+div#div2 {
+    position: relative;
+    justify-content: end;
+    display: flex;
+    padding: 20px;
+    top: 80px;}
+
+
+div#div3 {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    top: 50px;
+    text-align: center;}
+
+input#nome {
+
+    text-align: center;
+    border-radius: 20px;
+    border-style: dotted;
+    color: black;
+    height: 20px;}
+
+div#div4 {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    top: 60px;}    
+
+input#iniciar {
+    text-align: center;
+    border-radius: 20px;
+    border-style: dotted;
+    color: white;
+    background-color:rgba(5, 46, 29, 0.877);
+    height: 26px;
+    width: 80px;
+
+}
+
+footer {
+    color: white;
+    font: normal 13pt calibri;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;}
